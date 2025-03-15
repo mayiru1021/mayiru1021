@@ -15,8 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- It's Yiru Ma's github. 
 - 🔭 I’m currently studying in Beijing Institute of Technology.
 - 🌱 I’m currently learning predictive control and reinforcement learning ...
+
+#### :computer: Programming languages and tools: 
+<p>
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/matlab-ar21.svg"></code>
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayiru1021&show_icons=true&theme=dracula)
