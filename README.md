@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/matlab/matlab-ar21.svg](https://www.svgrepo.com/svg/373830/matlab)"></code>
+<code><img width="10%" src="https://images.app.goo.gl/eLtRXwTZw5ExdL9P7"></code>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayiru1021&show_icons=true&theme=dracula)
