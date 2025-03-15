@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/858px-Matlab_Logo.png"></code>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayiru1021&show_icons=true&theme=dracula)
+| [![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayiru1021&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayiru1021&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
