@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying in Beijing Institute of Technology.
+- 🔭 I’m a Master's student in Beijing Institute of Technology.
 - 🌱 I’m currently learning predictive control and reinforcement learning ...
 
 #### :computer: Programming languages and tools: 
