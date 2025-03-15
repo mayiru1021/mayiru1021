@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ It's Yiru Ma's github. 
+- 🔭 I’m currently studying in Beijing Institute of Technology.
+- 🌱 I’m currently learning predictive control and reinforcement learning ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayiru1021a&show_icons=true&theme=radical)
