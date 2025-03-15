@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi it's Yiru Ma 👋
 
 <!--
 **mayiru1021/mayiru1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+👈 It's my favorite gravel bike!
 - 🔭 I’m a Master's student in Beijing Institute of Technology.
 - 🌱 I’m currently learning predictive control and reinforcement learning ...
 
