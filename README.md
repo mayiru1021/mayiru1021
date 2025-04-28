@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 👈 It's my favorite gravel bike!
-You can call me Yuri or Yiru and call my bike archer.
+You can call me **Yuri** or **Yiru** and call my bike **Archer**.
 - 🔭 I’m a Master's student in Beijing Institute of Technology.
 - 🌱 I’m currently learning predictive control and reinforcement learning ...
 
