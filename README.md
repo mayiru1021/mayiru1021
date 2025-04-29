@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 You can call me **Yuri** or **Yiru** and call my bike **Archer**.
 - 🔭 I’m a Master's student in Beijing Institute of Technology.
 - 🌱 I’m currently learning predictive control and reinforcement learning ...
+- 👯 I'm looking for an opportunity for PhD ...
 
 #### :computer: Programming languages and tools: 
 <p>
