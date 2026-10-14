@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👈 It's my favorite gravel bike!
-You can call me **Yuri** or **Yiru** and call my bike **Archer**.
-- 🔭 I’m a Master's student in Beijing Institute of Technology.
-- 🌱 I’m currently learning predictive control and reinforcement learning ...
-- 👯 I'm looking for an opportunity for PhD ...
+👈 It's my favorite gravel bicycle!
+You can call me **Yuri** or **Yiru**.
+- 🔭 I’m a Master's student in Haribin Institute of Technology.
+- 🌱 I’m currently learning multi-agent system and reinforcement learning ...
 
 #### :computer: Programming languages and tools: 
 <p>
